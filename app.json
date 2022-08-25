@@ -1,0 +1,30 @@
+{
+  "id": "05f337bd-7c3c-4d3f-ac35-4209fd3879b9",
+  "name": "BC Big Time Ext Ventas Mig",
+  "publisher": "Rafael Abances",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "features": [ "TranslationFile" ]
+  }

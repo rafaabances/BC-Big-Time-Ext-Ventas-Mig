@@ -1,0 +1,1404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC Big Time Ext Ventas Mig">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2850875216 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Bank,Application,Payroll,Approve,Page,Post/Print,Line,Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Diario cartera moroso</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - NamedType 1877939671" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No. must have a value in Gen. Journal Line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - NamedType DocumentNumberMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - NamedType 196271396" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are no exchange rates for currency %1 and date %2. Do you want to add them now? Otherwise, the last change you made will be reverted.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - currency code, %2 - posting date</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - NamedType MissingExchangeRatesQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journal lines have been successfully inserted from Standard General Journal %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard General Journal %1 has been successfully created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - NamedType 960205419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registre las líneas del Diario. Si no, podrían aparecer incoherencias entre los datos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - NamedType Text51000</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1622979514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account number that the entry on the journal line will be posted to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3699788827 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of account that the entry on the journal line will be posted to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Account Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 422618514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account name that the entry on the journal line will be posted to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control AccountName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 422618514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control AccountName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total amount (including VAT) that the journal line consists of.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total amount in local currency (including VAT) that the journal line consists of.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 508884519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the record on the line has been applied.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applied - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 508884519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applied - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1224299340 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the general journal line has been automatically applied with a matching payment using the Apply Automatically function.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applied Automatically - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1632406684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the bill to be settled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applies-to Bill No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2899774127 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the posted document that this document or journal line will be applied to when you post, for example to register payment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applies-to Doc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2865137134 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of the posted document that this document or journal line will be applied to when you post, for example to register payment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applies-to Doc. Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2553863078 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the external document number that will be exported in the payment file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applies-to Ext. Doc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3093642907 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of entries that will be applied to when you choose the Apply Entries action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Applies-to ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1891586249 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the general ledger, customer, vendor, or bank account to which a balancing entry for the journal line will posted (for example, a cash account for cash purchases).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 824028820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the balancing account type that should be used in this journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. Account Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1343517546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the general business posting group code associated with the balancing account that will be used when you post the entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. Gen. Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2253402221 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the general posting type associated with the balancing account that will be used when you post the entry on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. Gen. Posting Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 984897189 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the general product posting group code associated with the balancing account that will be used when you post the entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. Gen. Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3675905706 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount of Bal. VAT included in the total amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. VAT Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1434957081 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the VAT business posting group that will be used when you post the entry on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. VAT Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2243316975 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the difference between the calculate VAT amount and the VAT amount that you have entered manually.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. VAT Difference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2553793614 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the VAT product posting group that will be used when you post the entry on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. VAT Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 265409144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the payment type to be used for the entry on the payment journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bank Payment Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3745161256 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a number for this bill generated from the journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bill No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3792756061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the bill-to customer or pay-to vendor that the entry is linked to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bill-to/Pay-to No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3225159479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the business unit that the entry derives from in a consolidated company.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Business Unit Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3048556483 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the campaign the journal line is linked to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Campaign No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a comment about the activity on the journal line. Note that the comment is not carried forward to posted entries.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1114185971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of corrected invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Corrected Invoice No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3083748138 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry as a corrective entry. You can use the field if you need to post a corrective entry to an account.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Correction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 4135646586 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of correction.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Correction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2556136339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total amount (including VAT) that the journal line consists of, if it is a credit amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Credit Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the currency for the amounts on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2796346326 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total amount (including VAT) that the journal line consists of, if it is a debit amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Debit Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 866715734 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the deferral template that governs how expenses or revenue are deferred to the different accounting periods when the expenses or revenue were incurred.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Deferral Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 4182352612 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the identification of the direct-debit mandate that is being used on the journal lines to process a direct debit collection.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Direct Debit Mandate ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 580412389 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date on the document that provides the basis for the entry on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Document Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a document number for the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of document that the entry on the journal line is.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3348534314 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the entry was part of a 3-party trade. If it was, there is a check mark in the field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control EU 3-Party Trade - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a document number that refers to the customer's or vendor's numbering system.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 633819257 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the vendor's or customer's trade type to link transactions made for this business partner with the appropriate general ledger account according to the general posting setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Gen. Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 59113118 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the general posting type that will be used when you post the entry on this journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Gen. Posting Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2139693550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item's product type to link transactions made for this item with the appropriate general ledger account according to the general posting setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Gen. Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1146727775 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID Type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control ID Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 596789822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the incoming document that this general journal line is created for.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Incoming Document Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3423211158 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the status of a job queue entry or task that handles the posting of general journals.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Job Queue Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 926489874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the journal line has been invoiced, and you execute the payment suggestions batch job, or you create a finance charge memo or reminder.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control On Hold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 577119437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies payer information that is imported with the bank statement file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Payer Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 966740350 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code that represents the payments terms that apply to the entry on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Payment Terms Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry's posting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3228518833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the purchase credit memo type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Purch. Cr. Memo Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 431609749 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the purchase invoice type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Purch. Invoice Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2470819653 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the purchase special scheme code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Purch. Special Scheme Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity of items to be included on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason code that has been entered on the journal lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Reason Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 4128503007 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sales credit memo type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Sales Cr. Memo Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2398974579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sales invoice type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Sales Invoice Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2570609843 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sales special scheme code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Sales Special Scheme Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3883264070 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the salesperson or purchaser who is linked to the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Salespers./Purch. Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2534900034 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the address code of the ship-to customer or order-from vendor that the entry is linked to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Ship-to/Order Address Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1577567912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 1, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Shortcut Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1003760969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 2, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Shortcut Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1132885437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the company sucessor in connection with corporate restructuring.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Succeeded Company Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1245691234 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the VAT registration number of the company sucessor in connection with corporate restructuring.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Succeeded VAT Registration No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3082049612 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies transaction information that is imported with the bank statement file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Transaction Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3319631365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the transaction number for the journal line being processed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Transaction No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1108276017 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount of VAT included in the total amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control VAT Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1844012642 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the VAT business posting group code that will be used when you post the entry on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control VAT Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2992823416 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the difference between the calculate VAT amount and the VAT amount that you have entered manually.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control VAT Difference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 236064653 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the VAT product posting group. Links business transactions made for the item, resource, or G/L account with the general ledger, to account for VAT amounts resulting from trade with that record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control VAT Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 242579347 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the currency for the amounts on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control &lt;CurrentCurrencyCode&gt; - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 242579347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control &lt;CurrentCurrencyCode&gt; - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1391725401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry's posting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control &lt;CurrentPostingDate&gt; - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1391725401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control &lt;CurrentPostingDate&gt; - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1651676281 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a document number for the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control &lt;Document No. Simple Page&gt; - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1651676281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control &lt;Document No. Simple Page&gt; - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 874212758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the journal batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control CurrentJnlBatchName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 874212758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control CurrentJnlBatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2588032914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Account Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1975045594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the account.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control AccName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 777301097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Bal. Account Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1287395299 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the balancing account that has been entered on the journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control BalAccName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1287395299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bal. Account Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control BalAccName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 3655304884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Control1902759701 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 25700210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the balance that has accumulated in the general journal on the line where the cursor is.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1993866289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Number of Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 402089063 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of lines in the current journal batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control NumberOfJournalRecords - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1038316384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Total Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 938567880 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total balance in the general journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control TotalBalance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 938567880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control TotalBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 2696513193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Credit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Total Credit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1703446367 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total credit amount in the general journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control DisplayTotalCredit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 1703446367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Credit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control DisplayTotalCredit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 997671936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control Total Debit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 460989226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total debit amount in the general journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control DisplayTotalDebit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 460989226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control DisplayTotalDebit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 677350589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Workflows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control WorkflowStatusBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Control 716229979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Workflows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Control WorkflowStatusLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2173385693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions, such as area, project, or department, that you can assign to sales and purchase documents to distribute costs and analyze transaction history.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Dimensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1892509601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A&amp;ccount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action A&amp;ccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4125097576 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or change detailed information about the record on the document or journal line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Card - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1111476699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the history of transactions that have been posted for the selected record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Ledger E&amp;ntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1111476699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger E&amp;ntries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Ledger E&amp;ntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3860314472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a list of the records that are waiting to be approved. For example, you can see who requested the record to be approved, when it was sent, and when it is due to be approved.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Approvals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3860314472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approvals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Approvals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4181767958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Application - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2072890765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Associate text on payments with debit, credit, and balancing accounts, so payments are posted to the accounts when you post payments. The payments are not applied to invoices or credit memos, and are suited for recurring cash receipts or expenses.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action AddMappingRule - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2072890765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map Text to Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action AddMappingRule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2474225426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply the payment amount on a journal line to a sales or purchase document that was already posted for a customer or vendor. This updates the amount on the posted document, and the document can either be partially paid, or closed as paid or refunded.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Apply Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2474225426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Apply Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3742662789 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply payments to their related open entries based on data matches between bank transaction text and entry information.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Match - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3742662789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Automatically</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Match - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 227370865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 803889193 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve the requested changes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Approve - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 803889193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 503024588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1013253961 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delegate the approval to a substitute approver.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Delegate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1013253961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delegate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Delegate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 113888489 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reject the approval request.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Reject - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 113888489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Reject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2687903164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B&amp;ank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action B&amp;ank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2858876202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import electronic bank statements from your bank to populate with data about actual bank transactions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ImportBankStatement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2858876202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Bank Statement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ImportBankStatement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4130217538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the balances on bank accounts that are marked for reconciliation, usually liquid accounts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Reconcile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4130217538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reconcile</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Reconcile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2373327566 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the content of the imported bank statement file, such as account number, posting date, and amounts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ShowStatementLineDetails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2373327566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Statement Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ShowStatementLineDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3285013543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>-</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action - - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2510810126 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit the deferral schedule that governs how expenses or revenue are deferred to different accounting periods when the journal line is posted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action DeferralSchedule - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2510810126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deferral Schedule</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action DeferralSchedule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 419162473 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a standard general journal to be inserted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action GetStandardJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 419162473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Get Standard Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action GetStandardJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2748447179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action IncomingDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1671420421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create an incoming document record by selecting a file to attach, and then link the incoming document record to the entry or document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action IncomingDocAttachFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1671420421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Incoming Document from File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action IncomingDocAttachFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2879753038 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View any incoming document records and file attachments that exist for the entry or document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action IncomingDocCard - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2879753038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action IncomingDocCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 909458268 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove any incoming document records and file attachments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action RemoveIncomingDoc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 909458268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action RemoveIncomingDoc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1744698506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select an incoming document record and file attachment that you want to link to the entry or document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SelectIncomingDoc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1744698506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SelectIncomingDoc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2297931729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert a rounding correction line in the journal. This rounding correction line will balance in LCY when amounts in the foreign currency also balance. You can then post the journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Insert Conv. LCY Rndg. Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2297931729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Conv. LCY Rndg. Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Insert Conv. LCY Rndg. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2282416948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize the document or journal by posting the amounts and quantities to the related accounts in your company books.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Post - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;ost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 513012614 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize and prepare to print the document or journal. The values and quantities are posted to the related accounts. A report request window where you can specify what to include on the print-out.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action PostAndPrint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 513012614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post and &amp;Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action PostAndPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4266201246 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Review the different types of entries that will be created when you post the document or journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Preview - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4266201246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Preview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1271989106 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove the scheduled processing of this record from the job queue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Remove From Job Queue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1271989106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove From Job Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Remove From Job Queue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2541273125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resort the numbers in the Document No. column to avoid posting errors because the document numbers are not in sequence. Entry applications and line groupings are preserved.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Renumber Document Numbers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2541273125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renumber Document Numbers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Renumber Document Numbers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3438036987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define the journal lines that you want to use later as a standard journal before you post the journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SaveAsStandardJournal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3438036987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Save as Standard Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SaveAsStandardJournal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3150094508 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a test report so that you can find and correct any errors before you perform the actual posting of the journal or document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Test Report - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3150094508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Test Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1562843158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opening Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Opening Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 743919020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepare journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Prepare journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1317029575 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates general journal line per Customer to enable manual entry of Customer open balances during the setup of a new company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Customers Opening balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1317029575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers Opening balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Customers Opening balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3008665488 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates general journal line per G/L account to enable manual entry of G/L account open balances during the setup of a new company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action G/L Accounts Opening balance  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3008665488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Accounts Opening balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action G/L Accounts Opening balance  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 649282575 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates a general journal line for each vendor. This lets you manually enter open balances for vendors when you set up a new company.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Vendors Opening balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 649282575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors Opening balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Vendors Opening balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 438909893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2829795987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View all available fields. Fields not frequently used are currently hidden.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ClassicView - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2829795987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show More Columns</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ClassicView - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 158382408 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send the data in the journal to an Excel file for analysis or editing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action EditInExcel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 158382408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit in Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action EditInExcel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2687027117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Errors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2110709833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View all journal lines, including lines with and without issues.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ShowAllLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2110709833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show All Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ShowAllLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 438152601 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a list of journal lines that have issues before you post the journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ShowLinesWithErrors - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 438152601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Lines with Issues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ShowLinesWithErrors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2342064933 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates a new document number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action New Doc No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2342064933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Document Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action New Doc No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2396562358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Navigate to next document number for current batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action NextDocNumberTrx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2396562358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Doc No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action NextDocNumberTrx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3134931032 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Navigate to previous document number for current batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action PreviousDocNumberTrx - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3134931032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous Doc No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action PreviousDocNumberTrx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3270700773 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hide fields that are not frequently used.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SimpleView - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 3270700773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Fewer Columns</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SimpleView - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1552467885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payro&amp;ll</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Payro&amp;ll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4123536026 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import a payroll file that you select.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ImportPayrollFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4123536026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Payroll File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ImportPayrollFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1669188721 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add journal lines based on transactions from your payroll service provider.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ImportPayrollTransactions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1669188721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Payroll Transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action ImportPayrollTransactions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2364670106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action Request Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 858296388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Approval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action CancelApprovalRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 140439479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel sending all journal lines for approval, also those that you may not see because of filters.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action CancelApprovalRequestJournalBatch - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 140439479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action CancelApprovalRequestJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 286452233 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel sending selected journal lines for approval.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action CancelApprovalRequestJournalLine - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 286452233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selected Journal Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action CancelApprovalRequestJournalLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1475970794 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new flow in Power Automate from a list of relevant flow templates.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action CreateFlow - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 1475970794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a flow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action CreateFlow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4289635518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View and configure Power Automate flows that you created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SeeFlows - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 4289635518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>See my flows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SeeFlows - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 383335270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Approval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SendApprovalRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2014229241 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send all journal lines for approval, also those that you may not see because of filters.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SendApprovalRequestJournalBatch - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2014229241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SendApprovalRequestJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2036791095 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send selected journal lines for approval.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SendApprovalRequestJournalLine - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2850875216 - Action 2036791095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selected Journal Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Action SendApprovalRequestJournalLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recircular efecs. a cobrar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 960205419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indique la nueva fecha vencimiento para el efecto recirculado.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51000</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 1597902036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rellene el nombre del libro y la sección del diario con los valores apropiados.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51001</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 2235598653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recirculando           #1######</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51002</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 2873295270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La nueva fecha de vencimiento no puede ser anterior a la actual %1 en doc. %2%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51003</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 2704386247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documento Recirculado %1/%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51004</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 3342082864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se ha/n preparado %1 factura/s para recircular.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51005</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Opciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 3349558288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auxiliary Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control Include - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre sección"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control BatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2558506169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Template Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre libro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control TemplateName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2902969928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Due Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nueva fecha vencimiento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control NewDueDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2635511454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Payment Method</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nueva forma pago"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control NewPmtMethod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 51809174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control vPostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Impagar documentos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 960205419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rellene el nombre del libro y la sección del diario con los valores apropiados.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51000</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 1597902036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dotando facturas a cobrar             #1######</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51001</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 2235598653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documento dotado %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51002</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 2873295270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se ha/n dotado %1 documento/s.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51003</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 2704386247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Este campo debe estar en blanco para registro directo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51004</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Opciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 3349558288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auxiliary Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control Include - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre sección"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control BatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 2558506169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Template Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre libro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control TemplateName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 51809174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control vPostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 879418856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control vUseJournal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 237777831 - Action 3865100155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mov. dotación morosos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer Card - Action Doubtful Debts Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3007450466 - Action 1192323873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Redraw</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer Ledger Entries - Action Redraw - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3007450466 - Action 113888489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer Ledger Entries - Action Reject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1632320221 - Action 3865100155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mov. dotación morosos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer List - Action Doubtful Debts Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 1755802916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Amount to Redraw</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe a recircular"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Amount to Redraw - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 2926843004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Initial Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Initial Doub. Debt Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 3199035072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Last Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro final"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Last Doub. Debt Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 3617354095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Redrawn Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe desdotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Redrawn Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 1607206099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Redrawn Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Redrawn Doubtful Debt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 2159102766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Rejected Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe dotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Rejected Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 262607554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Rejected Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Rejected Doubtful Debt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 653755955 - Field 2159102766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Rejected Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe dotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer - Field Rejected Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 3771183694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Doubtful debts account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. dudoso cobro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Doubtful debts account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 1458498953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Late payment account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. dotación morosidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Late payment account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 3848155984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Late payment damage account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. deterioro morosidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Late payment damage account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 2456347666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Late payment release account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. desdotación morosidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Late payment release account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 1755802916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Amount to Redraw</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe a recircular"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Amount to Redraw - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 2926843004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Initial Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Initial Doub. Debt Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 3199035072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Last Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro final"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Last Doub. Debt Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 3617354095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Redrawn Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe desdotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Redrawn Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 1607206099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Redrawn Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Redrawn Doubtful Debt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 2159102766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Rejected Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe dotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Rejected Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 262607554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Rejected Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Rejected Doubtful Debt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1328920279 - Field 2031397197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Doubtful Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL G/L Entry - Field Doubtful Debt Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1328920279 - Field 1147447155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Doubtful Debt Provision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL G/L Entry - Field Doubtful Debt Provision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1328920279 - Field 1338773510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Doubtful Debt Unprovision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL G/L Entry - Field Doubtful Debt Unprovision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 455779098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Doubful Debt Unprovision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Doubful Debt Unprovision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 138472083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Doubfutl Debt Account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cuenta deuda moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Doubfutl Debt Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 1147447155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Doubtful Debt Provision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Doubtful Debt Provision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 2926843004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Initial Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Initial Doub. Debt Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 3199035072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Last Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro último"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Last Doub. Debt Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2414176422 - EnumValue 3931687623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AuxJournal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario Auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum UseJournal - EnumValue AuxJournal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2414176422 - EnumValue 2672871879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Directo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum UseJournal - EnumValue Direct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 3935927570 - EnumValue 832063177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2168715013">
+          <source>Doubtful</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dudoso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension DEL Gen. Journal Template Type - EnumValue Doubtful - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="BC Big Time Ext Ventas Mig">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2850875216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Diario cartera moroso</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Del Doubtful Debt Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recircular efecs. a cobrar</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 960205419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indique la nueva fecha vencimiento para el efecto recirculado.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51000</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 1597902036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rellene el nombre del libro y la sección del diario con los valores apropiados.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51001</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 2235598653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recirculando           #1######</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51002</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 2873295270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La nueva fecha de vencimiento no puede ser anterior a la actual %1 en doc. %2%3</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51003</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 2704386247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documento Recirculado %1/%2</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51004</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - NamedType 3342082864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se ha/n preparado %1 factura/s para recircular.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - NamedType Text51005</note>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Opciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control Options - Property Caption</note>
+          <target>Opciones</target>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 3349558288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auxiliary Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control Include - Property Caption</note>
+          <target>Diario auxiliar</target>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre sección"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control BatchName - Property Caption</note>
+          <target>Nombre sección</target>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2558506169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Template Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre libro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control TemplateName - Property Caption</note>
+          <target>Nombre libro</target>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2902969928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Due Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nueva fecha vencimiento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control NewDueDate - Property Caption</note>
+          <target>Nueva fecha vencimiento</target>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 2635511454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Payment Method</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nueva forma pago"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control NewPmtMethod - Property Caption</note>
+          <target>Nueva forma pago</target>
+        </trans-unit>
+        <trans-unit id="Report 3660178311 - Control 51809174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Redraw Invoices - Control vPostingDate - Property Caption</note>
+          <target>Fecha registro</target>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Impagar documentos</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 960205419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rellene el nombre del libro y la sección del diario con los valores apropiados.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51000</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 1597902036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dotando facturas a cobrar             #1######</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51001</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 2235598653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documento dotado %1</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51002</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 2873295270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se ha/n dotado %1 documento/s.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51003</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - NamedType 2704386247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Este campo debe estar en blanco para registro directo.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - NamedType Text51004</note>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Opciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control Options - Property Caption</note>
+          <target>Opciones</target>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 3349558288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auxiliary Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control Include - Property Caption</note>
+          <target>Diario auxiliar</target>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre sección"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control BatchName - Property Caption</note>
+          <target>Nombre sección</target>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 2558506169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Template Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre libro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control TemplateName - Property Caption</note>
+          <target>Nombre libro</target>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 51809174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control vPostingDate - Property Caption</note>
+          <target>Fecha registro</target>
+        </trans-unit>
+        <trans-unit id="Report 2308018767 - Control 879418856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Reject Invoices - Control vUseJournal - Property Caption</note>
+          <target>Registro</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 237777831 - Action 3865100155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mov. dotación morosos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer Card - Action Doubtful Debts Entries - Property Caption</note>
+          <target>Mov. dotación morosos</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3007450466 - Action 1192323873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Redraw</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer Ledger Entries - Action Redraw - Property Caption</note>
+          <target>Desdotar</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3007450466 - Action 113888489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer Ledger Entries - Action Reject - Property Caption</note>
+          <target>Dotar</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1632320221 - Action 3865100155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mov. dotación morosos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DEL Customer List - Action Doubtful Debts Entries - Property Caption</note>
+          <target>Mov. dotación morosos</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 1755802916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Amount to Redraw</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe a recircular"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Amount to Redraw - Property Caption</note>
+          <target>Importe a recircular</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 2926843004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Initial Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Initial Doub. Debt Entry No. - Property Caption</note>
+          <target>Nº mov. de dudoso cobro inicial</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 3199035072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Last Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro final"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Last Doub. Debt Entry No. - Property Caption</note>
+          <target>Nº mov. de dudoso cobro final</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 3617354095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Redrawn Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe desdotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Redrawn Amount - Property Caption</note>
+          <target>Importe desdotado</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 1607206099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Redrawn Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Redrawn Doubtful Debt - Property Caption</note>
+          <target>Desdotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 2159102766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Rejected Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe dotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Rejected Amount - Property Caption</note>
+          <target>Importe dotado</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 756772029 - Field 262607554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Rejected Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Cust. Ledger Entry - Field Rejected Doubtful Debt - Property Caption</note>
+          <target>Dotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 653755955 - Field 2159102766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Rejected Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe dotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer - Field Rejected Amount - Property Caption</note>
+          <target>Importe dotado</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 3771183694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Doubtful debts account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. dudoso cobro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Doubtful debts account - Property Caption</note>
+          <target>Cta. dudoso cobro</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 1458498953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Late payment account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. dotación morosidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Late payment account - Property Caption</note>
+          <target>Cta. dotación morosidad</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 3848155984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Late payment damage account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. deterioro morosidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Late payment damage account - Property Caption</note>
+          <target>Cta. deterioro morosidad</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1937837226 - Field 2456347666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 410940989">
+          <source>Late payment release account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cta. desdotación morosidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Customer Posting Group - Field Late payment release account - Property Caption</note>
+          <target>Cta. desdotación morosidad</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 1755802916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Amount to Redraw</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe a recircular"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Amount to Redraw - Property Caption</note>
+          <target>Importe a recircular</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 2926843004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Initial Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Initial Doub. Debt Entry No. - Property Caption</note>
+          <target>Nº mov. de dudoso cobro inicial</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 3199035072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Last Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro final"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Last Doub. Debt Entry No. - Property Caption</note>
+          <target>Nº mov. de dudoso cobro final</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 3617354095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Redrawn Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe desdotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Redrawn Amount - Property Caption</note>
+          <target>Importe desdotado</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 1607206099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Redrawn Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Redrawn Doubtful Debt - Property Caption</note>
+          <target>Desdotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 2159102766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Rejected Amount</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe dotado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Rejected Amount - Property Caption</note>
+          <target>Importe dotado</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3439944715 - Field 262607554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2007144088">
+          <source>Rejected Doubtful Debt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL CV Ledger Entry Buffer - Field Rejected Doubtful Debt - Property Caption</note>
+          <target>Dotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1328920279 - Field 2031397197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Doubtful Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL G/L Entry - Field Doubtful Debt Entry No. - Property Caption</note>
+          <target>Nº mov. de dudoso cobro inicial</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1328920279 - Field 1147447155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Doubtful Debt Provision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL G/L Entry - Field Doubtful Debt Provision - Property Caption</note>
+          <target>Dotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1328920279 - Field 1338773510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Doubtful Debt Unprovision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL G/L Entry - Field Doubtful Debt Unprovision - Property Caption</note>
+          <target>Desdotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 455779098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Doubful Debt Unprovision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Desdotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Doubful Debt Unprovision - Property Caption</note>
+          <target>Desdotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 138472083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Doubfutl Debt Account</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cuenta deuda moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Doubfutl Debt Account - Property Caption</note>
+          <target>Cuenta deuda moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 1147447155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Doubtful Debt Provision</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dotación moroso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Doubtful Debt Provision - Property Caption</note>
+          <target>Dotación moroso</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 2926843004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Initial Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Initial Doub. Debt Entry No. - Property Caption</note>
+          <target>Nº mov. de dudoso cobro inicial</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2841545124 - Field 3199035072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Last Doub. Debt Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº mov. de dudoso cobro último"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DEL Gen. Journal Line - Field Last Doub. Debt Entry No. - Property Caption</note>
+          <target>Nº mov. de dudoso cobro último</target>
+        </trans-unit>
+        <trans-unit id="Enum 2414176422 - EnumValue 3931687623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AuxJournal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario Auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum UseJournal - EnumValue AuxJournal - Property Caption</note>
+          <target>Diario Auxiliar</target>
+        </trans-unit>
+        <trans-unit id="Enum 2414176422 - EnumValue 2672871879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Directo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum UseJournal - EnumValue Direct - Property Caption</note>
+          <target>Directo</target>
+        </trans-unit>
+        <trans-unit id="EnumExtension 3935927570 - EnumValue 832063177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2168715013">
+          <source>Doubtful</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dudoso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension DEL Gen. Journal Template Type - EnumValue Doubtful - Property Caption</note>
+          <target>Dudoso</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
